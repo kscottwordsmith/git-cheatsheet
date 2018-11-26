@@ -1,4 +1,4 @@
-In order to get things pushed up to github, here is a cheat sheet to help you get going.
+In order to get things pushed up to github, here is a cheat sheet to help you get going. Depending on whether or not your are starting from scratch or you are forking a previous repo, follow the instructions as neccesary. The third section is the same for both.
 
 ### From Scratch:
     1. Create your repo on github
@@ -13,7 +13,8 @@ In order to get things pushed up to github, here is a cheat sheet to help you ge
     2. Click on the "Clone or download" button and copy the url.
     3. In your terminal, type `git clone <paste link here>`
 
-The steps listed below are identical for both.
+
+### The steps listed below are identical for both.
     1. `git add .`
     2. `git commit -m <commit message here>`
     3. `git push origin master`
