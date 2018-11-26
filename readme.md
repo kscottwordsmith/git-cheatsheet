@@ -14,7 +14,7 @@ In order to get things pushed up to github, here is a cheat sheet to help you ge
 3. In your terminal, type `git clone <paste link here>`
 
 
-### The steps listed below are identical for both.
+#### The steps listed below are identical for both.
 1. `git add .`
 2. `git commit -m <commit message here>`
 3. `git push origin master`
