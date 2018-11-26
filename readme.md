@@ -9,8 +9,8 @@ In order to get things pushed up to github, here is a cheat sheet to help you ge
 6. `git remote add origin <paste github url here>`
 
 ### From a fork:
-1. Fork the respository on github by clicking the fork button at the top of the repo page.
-2. Click on the "Clone or download" button and copy the url.
+1. Fork the respository on github by clicking the ![Fork][fork.png] button at the top of the repo page.
+2. Click on the ![Clone or Download][clone.png] button and copy the url.
 3. In your terminal, type `git clone <paste link here>`
 
 
